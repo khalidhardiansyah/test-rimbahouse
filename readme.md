@@ -1,4 +1,4 @@
-## Checklist App
+## user list
 
 Dibuat menggunakan **JavaScript**, **HTML**, dan **CSS**.
 
